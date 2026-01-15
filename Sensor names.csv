@@ -1,0 +1,22 @@
+Sensor,Symbol,Description,Unit
+s1,T2,Total temperature at fan inlet,°R (Rankine)
+s2,T24,Total temperature at LPC (Low Pressure Compressor) outlet,°R
+s3,T30,Total temperature at HPC (High Pressure Compressor) outlet,°R
+s4,T50,Total temperature at LPT (Low Pressure Turbine) outlet,°R
+s5,P2,Pressure at fan inlet,psia
+s6,P15,Total pressure in bypass-duct,psia
+s7,P30,Total pressure at HPC outlet,psia
+s8,Nf,Physical fan speed,rpm
+s9,Nc,Physical core speed,rpm
+s10,epr,Engine pressure ratio (P40/P2),-
+s11,Ps30,Static pressure at HPC outlet,psia
+s12,phi,Ratio of fuel flow to Ps30,pps/psi
+s13,NRf,Corrected fan speed,rpm
+s14,NRc,Corrected core speed,rpm
+s15,BPR,Bypass Ratio,-
+s16,farB,Burner fuel-air ratio,-
+s17,htBleed,Bleed Enthalpy,-
+s18,Nf_dmd,Demanded fan speed,rpm
+s19,PCNfR_dmd,Demanded corrected fan speed,rpm
+s20,W31,HPT (High Pressure Turbine) coolant bleed,lbm/s
+s21,W32,LPT (Low Pressure Turbine) coolant bleed,lbm/s
