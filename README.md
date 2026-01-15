@@ -3,13 +3,13 @@
 ✈️ **Project Overview**
 This project performs an end-to-end Exploratory Data Analysis (EDA) on the NASA CMAPSS (Commercial Modular Aero-Propulsion System Simulation) dataset. The goal is to identify mechanical degradation patterns in turbofan engines through sensor data analysis, enabling a transition from reactive to Condition-Based Maintenance (CBM) strategies.
 
-🛠️ **Technical Stac**k
+🛠️ **Technical Stack**
 
 Language: Python 3.x
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
-Environment: Jupyter Notebook / Google Colab
+Environment: Jupyter Notebook
 
 📂 **Dataset Description**
 
