@@ -50,7 +50,7 @@ Feature Engineering: Implementing rolling averages to smooth sensor noise.
 
 Deployment: Creating a real-time monitoring dashboard for fleet management.
 
-👤 **Submitted by**
+👤 **Prepared by**
 
 Nuhad Kottampara 
 
